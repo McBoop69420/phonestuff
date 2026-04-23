@@ -41,3 +41,11 @@ yarn-error.log*
 next-env.d.ts
 data/
 .env.local
+
+# Xcode
+BetTracker.xcodeproj/xcuserdata/
+BetTracker.xcodeproj/*.xcuserstate
+BetTracker.xcodeproj/project.xcworkspace/xcuserdata/
+DerivedData/
+*.xccheckout
+*.moved-aside
